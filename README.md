@@ -4,6 +4,7 @@ It is still a work in progress, as in its current state it is a very buggy and b
 But I have put it here for bug reports, criticism and possible ideas.
 
 The controls are simple:
+
 **Right Arrow** and **Left Arrow** to move.
 
 **Space** to jump.
