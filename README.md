@@ -5,5 +5,7 @@ But I have put it here for bug reports, criticism and possible ideas.
 
 The controls are simple:
 **Right Arrow** and **Left Arrow** to move.
-**Space** to jump
+
+**Space** to jump.
+
 **R** to restart.
